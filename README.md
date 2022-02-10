@@ -16,4 +16,4 @@ The project has been built using React JS, React-hooks, React-component, Materia
 - Adding Netflix Movie Trailer POP-UPS!
 - Deploying Your App to Firebase & Host it online
 
-**Deployed project link: **[Netflix clone](https://rohangupta788.github.io/csb-86cjr/)
+**Deployed project link:**  [Netflix clone](https://rohangupta788.github.io/csb-86cjr/)
