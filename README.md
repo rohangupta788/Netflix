@@ -9,11 +9,10 @@ The project has been built using React JS, React-hooks, React-component, Materia
 ## Steps Include :
 - Getting TMDB API Key
 - Creating REACT App 
-- Getting all movies & building the Netflix movie rows
+- Getting all movies & building the Netflix movie rows.
 - Building the banner of the app
-- Building the NAVBAR!
-- Adding firebase hosting to your app
+- Building the navbar.
 - Adding Netflix Movie Trailer POP-UPS!
-- Deploying Your App to Firebase & Host it online
+- Deploying App to Github and host it online
 
 **Deployed project link:**  [Netflix clone](https://rohangupta788.github.io/csb-86cjr/)
