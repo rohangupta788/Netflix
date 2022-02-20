@@ -1,4 +1,7 @@
 # Netflix
+
+![NETFLIX IMAGE](https://upload.wikimedia.org/wikipedia/en/f/f4/Netflix_-_English.jpg)
+
 This is a Netflix UI clone application project created on online code editor *codesandbox.* 
 In this project the movie data is fetched from a third-party API.
 The movies are organised according to the latest, trending, categories etc.
